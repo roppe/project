@@ -2565,7 +2565,7 @@ text-align: left;
      .process-steps{
     margin-bottom: 10px;
     max-width: 300px;
-    background-color: #fafafa;
+    background-color: #16bae1;
     margin-right:20px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -2633,7 +2633,7 @@ text-align: left;
     #home-section .text-area h2{
 		font-family: "Roboto";
     font-weight:700;
-    color:#1d65b9;
+    color:#fff;
     font-size: 28px;
     text-align:center;
     margin-top:20px;
@@ -2644,7 +2644,7 @@ text-align: left;
      #home-section .text-area h2 span{
     font-family: "Open Sans";
     font-weight:700;
-    color:#1d65b9;
+    color:#FFF;
     font-size: 28px;
     text-align:center;
     margin-top:20px;
