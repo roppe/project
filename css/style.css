@@ -770,14 +770,14 @@ font-family: 'Roboto', sans-serif;
 		}
 
 		.our-colors .c-title{
-font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 		font-weight: 400;
 		color: #333;
 		font-size: 18px;
 		text-align: left;
 		margin-top: 5px;
 		margin-bottom: 20px;
-font-family: 'Roboto', sans-serif;
+		font-family: 'Roboto', sans-serif;
 		width: 100%;
 		border-bottom: 1px solid #eee;
 		padding-bottom: 8px;
@@ -2487,12 +2487,54 @@ text-align: left;
 
 	}
 
+	.tz-gallery-small h2{
+		font-size: 26px;
+		font-weight: 500;
+		text-transform: uppercase;
+		color: #333;
+		text-align: center;
+		width: 100%;
+		margin-bottom: 5px;
+		margin-top: 0;
+	}
+
+	.tz-gallery-small  h4{
+		font-weight: 300;
+		color: #999;
+		text-transform: uppercase;
+		text-align: center;
+		width: 100%;
+		margin-bottom: 25px;
+		margin-top: 0;
+		font-size: 20px;
+	}
+
 	.tz-gallery-small .lightbox img {
 	width: 100%;
 	margin-bottom: 20px;
 	margin-top: 25px;
 	transition: 0.2s ease-in-out;
 	box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+	}
+
+	.tz-gallery-small .btn-quote-5 {
+		font-weight: 600;
+		color: #fff;
+		background-color: #16bae1;
+		font-size: 15px;
+		text-align: center;
+		margin-top: 20px;
+		margin-bottom: 30px;
+		padding-bottom: 0;
+		font-family: 'Poppins', sans-serif;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 290px;
+		padding-top: 13px;
+		padding-bottom: 13px;
+		text-transform: uppercase;
+		border-radius: 5px;
 	}
 
 
@@ -2589,7 +2631,7 @@ text-align: left;
     font-family: 'Roboto';
     font-weight: 700;
     color: #fff;
-    font-size: 16px;
+    font-size: 17px;
     text-align: center;
     margin-top: 15px;
     }
@@ -2599,7 +2641,7 @@ text-align: left;
 		font-family: 'Roboto';
     font-weight:300;
     color: #fff;
-    font-size: 12px;
+    font-size: 13px;
 	text-align: left;
 	margin-top: 35px;
     }
@@ -2617,7 +2659,7 @@ text-align: left;
     #home-section .text-area h3{
     font-family: "Roboto";
     font-weight: 500;
-    color: #1d65b9;
+    color: #ffffff;
     font-size:22px;
     text-align: center;
    }
@@ -2625,7 +2667,7 @@ text-align: left;
    #home-section .text-area h3 span{
 	font-family: "Roboto";
     font-weight: 500;
-    color:#1d65b9;
+    color:#fff;
     font-size: 28px;
     letter-spacing: 2px;
    }
@@ -2739,7 +2781,7 @@ text-align: left;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	color: #4b5b68;
-	font-size: 14px;
+	font-size: 16px;
 	text-align: left;
 	margin-top: 10px;
 	font-family: 'Roboto', sans-serif;
@@ -2753,15 +2795,16 @@ text-align: left;
 		font-family: 'Roboto', sans-serif;
 		font-weight: 600;
 		color: #fff;
-		background-color: #ffd526;
+		background-color: #16bae1;
 		text-decoration: none;
 		margin-left: auto;
 		margin-right: auto;
-		padding-top: 9px;padding-bottom: 9px;
+		padding-top: 11px;padding-bottom:11px;
 		font-size: 15px;
-		width: 160px;
+		width: 170px;
 		float: left;;
 		text-align: center;
+		border-radius: 10px;
 		}
 
 		#home-about .about-btn .fa{
@@ -2849,7 +2892,7 @@ text-align: left;
 		#section-services .left-one p{
 			font-weight: 300;
 			color: #4b5b68;
-			font-size: 14px;
+			font-size: 16px;
 			text-align: left;
 			margin-top: 10px;
 			font-family: 'Roboto', sans-serif;
@@ -2864,7 +2907,7 @@ text-align: left;
 		font-family: 'Roboto', sans-serif;
 		font-weight: 300;
 		color: #4b5b68;
-		font-size: 14px;
+		font-size: 16px;
 		text-align:left;	
 		}
 
@@ -2873,7 +2916,7 @@ text-align: left;
 		#section-services .left-one .btn-5{
 			font-weight: 400;
 			color: #fff;
-			background-color: #ffd526;
+			background-color: #16bae1;
 			font-size: 15px;
 			text-align: center;
 			margin-top: 20px;
@@ -2881,9 +2924,9 @@ text-align: left;
 			padding-bottom: 0;
 			font-family: 'Roboto', sans-serif;
 			display: block;
-			width: 220px;
-			padding-top: 9px;
-			padding-bottom: 9px;
+			width: 200px;
+			padding-top: 10px;
+			padding-bottom: 10px;
 			text-transform: uppercase;
 			border-radius: 10px;
 			 float: left; 
@@ -2954,7 +2997,7 @@ text-align: left;
 		.quote-btn-2 {
 			font-weight: 600;
 			color: #fff;
-			background-color: #eeb72d;
+			background-color: #16bae1;
 			font-size: 16px;
 			text-align: center;
 			margin-top: 20px;
@@ -2963,8 +3006,8 @@ text-align: left;
 		font-family: 'Roboto', sans-serif;
 			display: block;
 			width: 260px;
-			padding-top: 15px;
-			padding-bottom: 15px;
+			padding-top: 13px;
+			padding-bottom: 13px;
 			text-transform: uppercase;
 			border-radius: 10px;
 			/* float: left; */
@@ -3050,7 +3093,7 @@ text-align: left;
 		#contact-top .c-des {
 			font-weight: 300;
 			color: #4b5b68;
-			font-size: 14px;
+			font-size: 16px;
 			text-align: left;
 			margin-top: 10px;
 			font-family: 'Roboto', sans-serif;
@@ -3280,7 +3323,7 @@ text-align: left;
 		font-family: 'Roboto';
 		font-weight: 300;
 		color: #fff;
-		font-size: 13px;
+		font-size: 14px;
 		text-align: left;
 		
 		}
@@ -3331,7 +3374,7 @@ text-align: left;
 	#brooklyn-services .left-brooklyn p{
 		font-weight: 300;
 		color: #4b5b68;
-		font-size: 14px;
+		font-size: 15px;
 		text-align: left;
 		margin-top: 10px;
 		font-family: 'Roboto', sans-serif;
@@ -3339,7 +3382,7 @@ text-align: left;
 
 
 		#brooklyn-services .left-brooklyn h5{
-		font-size: 18px;
+		font-size: 19px;
 		font-weight: 500;
 
 		color: #333;
@@ -3389,7 +3432,7 @@ text-align: left;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	color: #4b5b68;
-	font-size: 14px;
+	font-size: 16px;
 	text-align:left;	
 	}
 
@@ -3419,17 +3462,23 @@ text-align: left;
 	text-align: left;
 	margin-top: 10px;
 	font-family: 'Roboto', sans-serif;
-	padding-left: 10px;
+	padding-left: 0;
 	}
 
 	.more-services li h6{
-	font-size: 16px;
+	font-size: 17px;
 	font-weight: 500;
 	color: #333;
 	text-align: left;
 	width: 100%;
 	margin-bottom: 10px;
-	margin-top: 0;
+	margin-top:15px;
+	}
+
+	.more-services li img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	.more-services li h6 .fa{
@@ -3473,7 +3522,7 @@ text-align: left;
 		.headline-text  p{
 			font-weight: 300;
 			color: #4b5b68;
-			font-size: 14px;
+			font-size: 15px;
 			text-align: left;
 			margin-top: 10px;
 			font-family: 'Roboto', sans-serif;
@@ -3483,7 +3532,7 @@ text-align: left;
 	.headline-text .btn-10 {
 	font-weight: 600;
 	color: #fff;
-	background-color: #ffd526;
+	background-color: #16bae1;
 	font-size: 15px;
 	text-align: center;
 	margin-top: 20px;
@@ -3547,7 +3596,7 @@ text-align: left;
 	#about-services .center-about p{
 	font-weight: 300;
 	color: #4b5b68;
-	font-size: 14px;
+	font-size: 16px;
 	text-align: left;
 	margin-top: 10px;
 	font-family: 'Roboto', sans-serif;
@@ -3600,7 +3649,7 @@ text-align: left;
 	#about-services .about-quote-5 {
 		font-weight: 600;
 		color: #fff;
-		background-color: #eeb72d;
+	    background-color: #16bae1;
 		font-size: 15px;
 		text-align: center;
 		margin-top: 40px;
@@ -3674,7 +3723,7 @@ text-align: left;
 	background-color: #009def;
 	font-family: 'Roboto', sans-serif;
 	position: relative;
-	border-top-right-radius: 50px;
+	border-top-right-radius:0;
 
 	}
 
@@ -3772,7 +3821,7 @@ text-align: left;
 	 .button-price-8 {
 		font-weight: 600;
 		color: #fff;
-		background-color: #ffd526;
+		background-color: #16bae1;
 		font-size: 16px;
 		text-align: center;
 		margin-top: 60px;
@@ -3841,7 +3890,7 @@ text-align: left;
 		.warranty-banner p{
 			font-weight: 300;
 			color: #4b5b68;
-			font-size: 14px;
+			font-size: 15px;
 			text-align: left;
 			margin-top: 10px;
 			font-family: 'Roboto', sans-serif;
@@ -3850,7 +3899,7 @@ text-align: left;
 		.warranty-banner .btn-10 {
 		font-weight: 600;
 		color: #fff;
-		background-color: #eeb72d;
+	    background-color: #16bae1;
 		font-size: 15px;
 		text-align: center;
 		margin-top: 30px;
