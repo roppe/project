@@ -1373,7 +1373,7 @@ font-family: 'Roboto', sans-serif;
 	.sub-footer{
 				display: block;
 				width: 100%;
-				padding-top:8px;padding-bottom:8px;
+				padding-top:10px;padding-bottom:10px;
 				background-color: #d6d3d3;
 				margin-top: 40px;
 				}
@@ -1382,13 +1382,20 @@ font-family: 'Roboto', sans-serif;
 				font-family: 'Roboto', sans-serif;
 				font-weight: 400;
 				color: #4b5b68;
-				text-align: center;
+				text-align:left;
 				display: block;
 				font-size: 11px;
-				float: right;
+			
 				margin-top: 3px;
 				letter-spacing: 1px;
 				margin-bottom: 3px;
+				}
+
+				.sub-footer .copy  a{
+					font-family: 'Roboto', sans-serif;
+					font-weight: 400;
+					color: #4b5b68;
+					margin-left: 5px;	
 				}
 		
 		
@@ -2273,7 +2280,7 @@ font-family: 'Roboto', sans-serif;
 		#more-inner  p{
 	font-family: 'Roboto', sans-serif;
 		font-weight: 500;
-		color: #4b5b68;
+		color: #353535;
 		font-size: 16px;
 		text-align: left;
 		margin-top: 10px;
@@ -2631,7 +2638,7 @@ text-align: left;
     font-family: 'Roboto';
     font-weight: 700;
     color: #fff;
-    font-size: 17px;
+    font-size: 18px;
     text-align: center;
     margin-top: 15px;
     }
@@ -2639,9 +2646,9 @@ text-align: left;
     
      .process-steps p{
 		font-family: 'Roboto';
-    font-weight:300;
+    font-weight:400;
     color: #fff;
-    font-size: 13px;
+    font-size: 14px;
 	text-align: left;
 	margin-top: 35px;
     }
@@ -2659,7 +2666,7 @@ text-align: left;
     #home-section .text-area h3{
     font-family: "Roboto";
     font-weight: 500;
-    color: #ffffff;
+    color: #333;
     font-size:22px;
     text-align: center;
    }
@@ -2667,7 +2674,7 @@ text-align: left;
    #home-section .text-area h3 span{
 	font-family: "Roboto";
     font-weight: 500;
-    color:#fff;
+	color: #333;
     font-size: 28px;
     letter-spacing: 2px;
    }
@@ -2675,7 +2682,7 @@ text-align: left;
     #home-section .text-area h2{
 		font-family: "Roboto";
     font-weight:700;
-    color:#fff;
+	color: #333;
     font-size: 28px;
     text-align:center;
     margin-top:20px;
@@ -2686,7 +2693,7 @@ text-align: left;
      #home-section .text-area h2 span{
     font-family: "Open Sans";
     font-weight:700;
-    color:#FFF;
+	color: #333;
     font-size: 28px;
     text-align:center;
     margin-top:20px;
@@ -2749,21 +2756,20 @@ text-align: left;
 
 
 	#home-about .first-info h3{
-	font-weight: 300;
-	color: #999;
-	text-transform: uppercase;
-	text-align: left;
-
-	width: 100%;
-	margin-bottom: 5px;
-	margin-top:30px;
-	font-size: 20px;
+		font-weight: 400;
+		color: #353535;
+		text-transform: uppercase;
+		text-align: left;
+		width: 100%;
+		margin-bottom: 5px;
+		margin-top: 30px;
+		font-size: 20px;
 
 	}
 
 
 	#home-about .first-info h2{
-	font-size: 26px;
+	font-size: 28px;
 	font-weight: 500;
 	text-transform: uppercase;
 	color: #333;
@@ -2779,8 +2785,8 @@ text-align: left;
 
 	#home-about .first-info  p{
 	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	color: #4b5b68;
+	font-weight: 400;
+	color: #353535;
 	font-size: 16px;
 	text-align: left;
 	margin-top: 10px;
@@ -2841,7 +2847,7 @@ text-align: left;
 		}
 
 		#section-services .left-one .t-1{
-			font-size: 26px;
+			font-size: 30px;
 		font-weight: 500;
 		text-transform: uppercase;
 		color: #333;
@@ -2854,14 +2860,14 @@ text-align: left;
 		}
 
 		#section-services .left-one h4{
-			font-weight: 300;
-			color: #999;
+			font-weight: 400;
+			color: #353535;
 			text-transform: uppercase;
 			text-align: left;
 			width: 100%;
 			margin-bottom: 25px;
 			margin-top: 0;
-			font-size: 20px;
+			font-size: 21px;
 
 		}
 
@@ -2890,8 +2896,8 @@ text-align: left;
 				
 
 		#section-services .left-one p{
-			font-weight: 300;
-			color: #4b5b68;
+			font-weight: 400;
+			color: #353535;
 			font-size: 16px;
 			text-align: left;
 			margin-top: 10px;
@@ -2905,8 +2911,8 @@ text-align: left;
 
 		#section-services .left-one .list-s li{
 		font-family: 'Roboto', sans-serif;
-		font-weight: 300;
-		color: #4b5b68;
+		font-weight: 400;
+		color: #353535;
 		font-size: 16px;
 		text-align:left;	
 		}
@@ -2945,8 +2951,8 @@ text-align: left;
 		}
 
 		.home-gallery h4 {
-			font-weight: 300;
-			color: #999;
+			font-weight: 400;
+		    color: #353535;
 			text-transform: uppercase;
 			text-align: center;
 			width: 100%;
@@ -2984,7 +2990,7 @@ text-align: left;
 		margin-right: auto;
 		}
 		.home-gallery  h2 {
-			font-size: 26px;
+			font-size: 30px;
 			font-weight: 500;
 			text-transform: uppercase;
 			color: #333;
@@ -3056,14 +3062,14 @@ text-align: left;
 	}
 
 	#contact-top h3 {
-		font-weight: 300;
-		color: #999;
+		font-weight: 400;
+		color: #353535;
 		text-transform: uppercase;
 		text-align: left;
 		width: 100%;
 		margin-bottom: 25px;
 		margin-top: 0;
-		font-size: 18px;
+		font-size: 17px;
 	}
 
 	
@@ -3091,8 +3097,8 @@ text-align: left;
 
 
 		#contact-top .c-des {
-			font-weight: 300;
-			color: #4b5b68;
+			font-weight: 400;
+		    color: #353535;
 			font-size: 16px;
 			text-align: left;
 			margin-top: 10px;
@@ -3289,6 +3295,17 @@ text-align: left;
 
 	}
 
+	.small-social{
+		display: block;
+		list-style-type: none;
+		float: right;
+		margin-bottom: 0;
+	}
+
+	.small-social li{
+		display: inline-block;
+		margin-right: 10px;
+	}
 
 	/* home page why us*/
 
@@ -3321,7 +3338,7 @@ text-align: left;
 
 		.box-why p{
 		font-family: 'Roboto';
-		font-weight: 300;
+		font-weight: 500;
 		color: #fff;
 		font-size: 14px;
 		text-align: left;
@@ -3347,7 +3364,7 @@ text-align: left;
 	}
 
 	#brooklyn-services .left-brooklyn .t-1{
-	font-size: 26px;
+	font-size: 29px;
 	font-weight: 500;
 	text-transform: uppercase;
 	color: #333;
@@ -3360,20 +3377,20 @@ text-align: left;
 	}
 
 	#brooklyn-services .left-brooklyn h4{
-	font-weight: 300;
-	color: #999;
+	font-weight: 400;
+	color: #353535;
 	text-transform: uppercase;
 	text-align: left;
 	width: 100%;
 	margin-bottom: 25px;
 	margin-top: 0;
-	font-size: 20px;
+	font-size: 21px;
 
 	}
 
 	#brooklyn-services .left-brooklyn p{
-		font-weight: 300;
-		color: #4b5b68;
+		font-weight: 400;
+		color: #353535;
 		font-size: 15px;
 		text-align: left;
 		margin-top: 10px;
@@ -3382,7 +3399,7 @@ text-align: left;
 
 
 		#brooklyn-services .left-brooklyn h5{
-		font-size: 19px;
+		font-size: 21px;
 		font-weight: 500;
 
 		color: #333;
@@ -3430,8 +3447,8 @@ text-align: left;
 
 	#brooklyn-services .left-brooklyn .list-b li{
 	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	color: #4b5b68;
+	font-weight: 400;
+    color: #353535;
 	font-size: 16px;
 	text-align:left;	
 	}
@@ -3497,7 +3514,7 @@ text-align: left;
 	}
 
 	.headline-text h2{
-	    font-size: 26px;
+	    font-size: 28px;
     font-weight: 500;
     text-transform: uppercase;
     color: #333;
@@ -3509,19 +3526,19 @@ text-align: left;
 	}
 
 	.headline-text h5{
-		font-weight: 300;
-		color: #999;
+		font-weight: 400;
+		color: #353535;
 		text-transform: uppercase;
 		text-align: center;
 		width: 100%;
 		margin-bottom: 25px;
 		margin-top: 0;
-		font-size: 20px;
+		font-size: 21px;
 	
 		}
 		.headline-text  p{
-			font-weight: 300;
-			color: #4b5b68;
+			font-weight: 400;
+			color: #353535;
 			font-size: 15px;
 			text-align: left;
 			margin-top: 10px;
@@ -3569,7 +3586,7 @@ text-align: left;
 	}
 
 	#about-services .center-about .t-1{
-	font-size: 26px;
+	font-size: 30px;
 	font-weight: 500;
 	text-transform: uppercase;
 	color: #333;
@@ -3582,20 +3599,20 @@ text-align: left;
 	}
 
 	#about-services .center-about h4{
-	font-weight: 300;
-	color: #999;
+	font-weight: 400;
+	color: #353535;
 	text-transform: uppercase;
 	text-align: center;
 	width: 100%;
 	margin-bottom: 25px;
 	margin-top: 0;
-	font-size: 20px;
+	font-size: 21px;
 
 	}
 
 	#about-services .center-about p{
-	font-weight: 300;
-	color: #4b5b68;
+	font-weight: 400;
+	color: #353535;
 	font-size: 16px;
 	text-align: left;
 	margin-top: 10px;
@@ -3604,10 +3621,10 @@ text-align: left;
 
 
 	#about-services .center-about h5{
-	font-size: 18px;
-	font-weight: 500;
+	font-size: 21px;
+	font-weight: 600;
 
-	color: #333;
+	color: #353535;
 	text-align: left;
 	width: 100%;
 	margin-bottom:20px;
@@ -3720,7 +3737,7 @@ text-align: left;
 	padding-bottom: 8px;padding-top: 8px;
 	padding-left: 25px;padding-right:25px;
 	width: 100%;
-	background-color: #009def;
+	background-color: #16bae1;
 	font-family: 'Roboto', sans-serif;
 	position: relative;
 	border-top-right-radius:0;
@@ -3778,7 +3795,7 @@ text-align: left;
 	}
 
 	.home-price-list .inner-prices p{
-	color: #009def;
+	color: #16bae1;
 	margin-bottom: 0;
 	font-weight: 700;
 	font-family: 'Roboto', sans-serif;
@@ -3793,7 +3810,7 @@ text-align: left;
 	display: block;
 	padding-bottom: 18px;padding-top: 18px;
 	padding-left: 25px;padding-right:25px;
-	background-color:  #009def;
+	background-color:  #16bae1;
 	border: none;
 	}
 
@@ -3876,7 +3893,7 @@ text-align: left;
 	
 		.warranty-banner h2{
 			font-size: 26px;
-			font-weight: 500;
+			font-weight: 700;
 			text-transform: uppercase;
 			color: #333;
 			text-align:center;
@@ -3888,8 +3905,8 @@ text-align: left;
 		}
 
 		.warranty-banner p{
-			font-weight: 300;
-			color: #4b5b68;
+			font-weight: 400;
+		    color: #353535;
 			font-size: 15px;
 			text-align: left;
 			margin-top: 10px;
@@ -3917,14 +3934,14 @@ text-align: left;
 		}
 	
 		.warranty-banner h3{
-			font-weight: 300;
-			color: #999;
+			font-weight: 400;
+			color: #353535;
 			text-transform: uppercase;
 			text-align: center;
 			width: 100%;
 			margin-bottom: 25px;
 			margin-top: 0;
-			font-size: 20px;
+			font-size: 21px;
 	
 		}
 	
