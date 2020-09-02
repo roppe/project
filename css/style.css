@@ -3391,7 +3391,7 @@ text-align: left;
 	#brooklyn-services .left-brooklyn p{
 		font-weight: 400;
 		color: #353535;
-		font-size: 15px;
+		font-size: 14px;
 		text-align: left;
 		margin-top: 10px;
 		font-family: 'Roboto', sans-serif;
@@ -3411,6 +3411,28 @@ text-align: left;
 
 		}
 	
+
+		.brooklyn-list{
+			padding-left: 0;
+			list-style-type:none;
+		}
+
+		.brooklyn-list li{
+		font-weight: 500;
+		color: #353535;
+		font-size: 13px;
+		text-align: left;
+		margin-top: 10px;
+		font-family: 'Roboto', sans-serif;
+		display: inline-block;
+        margin-right: 10px;
+		margin-bottom: 5px;
+		margin-top: 3px;
+
+
+		}
+
+
 
 	#brooklyn-services .left-brooklyn .big-line{
 	border: 1px solid #16bae1;
