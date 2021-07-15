@@ -80,10 +80,10 @@ background: #4AA659;}
 }
 
 .bordergreen{
-  border:1px solid#f8791b;
+  border:1px solid#56c368;
   padding: 10px 10px !important;
     margin-top: 5px;
-    background-color:#f8791b;
+    background-color:#56c368;
     text-transform: uppercase;
     border-radius: 25px;
     font-size: 14px;
@@ -116,12 +116,12 @@ background: #4AA659;}
 }
 .mynav .navbar-nav .active a{
   background: none !important;
-  color:#f8791b;
+  color:#56c368;
 }
 .mynav .navbar-right li a strong{
 
   padding: 4px 3px;
-  color: #f8791b !important;
+  color: #56c368 !important;
   font-family:"Open Sans";
   font-weight: 700;
   font-size: 13px;
@@ -132,8 +132,8 @@ background: #4AA659;}
 }
 
 .mynav .navbar-right li >.blue:hover{
-  background-color: #f8791b !important;
-  color: #f8791b;
+  background-color:#56c368;
+  color: #56c368;
 }
 
 
@@ -144,7 +144,7 @@ background: #4AA659;}
   height: 500px !important;
 }
 .mynav .navbar-nav li a:hover{
-  color: #f8791b;
+  color: #56c368;
 }
 
  /* drowpdown on hover*/
@@ -298,7 +298,7 @@ background: #4AA659;}
 }
 
 .aboutus h1{
-  color: #f8791b;
+  color: #56c368;
   line-height: 44px;
   margin-top: 40px;
   font-family: "Open Sans";
@@ -318,8 +318,8 @@ background: #4AA659;}
   text-align: left;
 }
 .aboutus .btn{
-  background:#5045a0;
-  border-color:#5045a0;
+  background:#56c368;
+  border-color:#56c368;
   padding: 10px 36px;
   border-radius: 30px!important;
 
@@ -347,7 +347,7 @@ background: #4AA659;}
   font-weight: 500;
   text-align:center;
   color: #fff;
-  background-color: #f8791b;
+  background-color: #56c368;
   padding-top: 5px;padding-bottom: 5px;
   width: 60%;
   border-radius: 20px;
@@ -545,7 +545,7 @@ background: #4AA659;}
 }
 
 .laptop1 h1{
-  color: #f8791b;
+  color: #56c368;
   line-height: 44px;
   margin-top: 40px;
   font-family: "Open Sans";
@@ -568,8 +568,8 @@ background: #4AA659;}
     text-align: left;
 }
 .laptop1 .btn{
-	background: #5045a0;
-    border-color: #5045a0;
+	background:#56c368;
+    border-color: #56c368;
 
 }
 
@@ -728,7 +728,7 @@ background: #4AA659;}
 .other-services{
      padding-top: 50px;
      padding-bottom: 50px;
-     background: #f8791b;
+     background: #56c368;
      text-align: center;
 }
 
@@ -745,8 +745,8 @@ background: #4AA659;}
     margin-left: auto;
     margin-right: auto;
     width: 350px;
-	background-color: #5045a0;
-   border-color: #5045a0;
+	background-color: #f8791b;
+   border-color: #f8791b;
     color: #fff;
     padding: 10px 36px;
     border-radius: 30px!important;
@@ -930,7 +930,7 @@ background: #4AA659;}
 
 .btn-quote{
      padding: 20px 50px;
-     background: #5045a0;
+     background: #f8791b;
      color: #fff !important;
      border-radius: 30px;
      border: 0;  
@@ -943,7 +943,7 @@ background: #4AA659;}
 
 .green-banner .btn-quote{
      padding: 20px 50px;
-     background:#5045a0;
+     background:#f8791b;
      color: #fff !important;
      border-radius: 30px;
      border: 0;  
@@ -1211,7 +1211,7 @@ Pricing table
   color: #fff;
   padding: 20px 0;
   font-size: 25px;
-  background:#f8791b;
+  background:#56c368;
   border-bottom: none;
   text-transform: uppercase;
   font-family: "Open Sans";
@@ -1234,7 +1234,7 @@ Pricing table
 }
 
 .pricing-head-active h4 {
-  color: #f8791b;
+  color: #56c368;
 }
 
 .pricing-head h4 i {
@@ -1268,7 +1268,7 @@ Pricing table
 
 
 .pricing-content li .pull-right{
-  color: #f8791b;
+  color: #56c368;
   font-family: "Open Sans";
   font-weight: 700;
 }
@@ -1279,7 +1279,7 @@ Pricing table
   font-weight: bolder;
   font-size: 15px;
   line-height: 17px;
-  background: #f8791b;
+  background: #56c368;
   padding:  20px 19px;
   padding-bottom: 5px;
   -webkit-animation: argh-my-eyes 1s infinite;
@@ -1296,7 +1296,7 @@ Pricing table
 }
 
 .price-active h4 {
-  color:  #f8791b;
+  color:  #56c368;
 }
 
 .no-space-pricing .pricing:hover {
@@ -1539,7 +1539,7 @@ Pricing table
     margin: 0 0 55px;
 }
 .y-us-title h2 {
-   color: #f8791b;
+   color: #56c368;
     line-height: 44px;
     font-family: "Open Sans";
     font-weight: 700;
@@ -1549,7 +1549,7 @@ Pricing table
 }
 
 .h3-title{
-  color:#f8791b;
+  color:#56c368;
     font-weight: 500;
     font-size: 22px;
     font-family: "Open Sans";
@@ -1617,7 +1617,7 @@ Pricing table
 
 
 .call-us-sct{
-	background-color: #f8791b;
+	background-color: #56c368;
 }
 
 .info-2{
@@ -2537,7 +2537,7 @@ transform:rotate(-45deg);
   }
 
  .section-client{
-  background-color: #f8791b;
+  background-color: #56c368;
   padding-top: 50px;
   padding-bottom: 50px;
   border-bottom: 1px solid #eee;
@@ -2564,7 +2564,7 @@ transform:rotate(-45deg);
     background-color: #fff;
   }
   .client-feedback h3{
-    color: #5045a0;
+    color: #333;
     font-family: "Open Sans";
     font-weight: 600;
     font-size: 15px;
@@ -2931,7 +2931,7 @@ transform:rotate(-45deg);
   font-weight: 600;
   margin-top: 30px;
   margin-bottom: 45px;
-  color:#f8791b;
+  color:#56c368;
   font-weight: 600;
   font-family:"Open Sans";
   text-align: center;
@@ -2941,7 +2941,7 @@ transform:rotate(-45deg);
   font-size:18px;
   font-weight: 600;
   font-family:"Open Sans";
-  border-left:6px solid #f8791b;
+  border-left:6px solid #56c368;
   padding-left: 10px;
 }
 
@@ -2950,7 +2950,7 @@ transform:rotate(-45deg);
   font-weight: 600;
   margin-bottom: 15px;
   font-family:"Open Sans";
-  border-left:6px solid #f8791b;
+  border-left:6px solid #56c368;
   padding-left: 10px;
 }
 
@@ -3025,7 +3025,7 @@ label {
 }
 
 .form-group .upload-label{
-  color: #f8791b;
+  color: #56c368;
   font-size: 15px;
   margin-top: 15px;
   margin-bottom: 5px;
@@ -3042,8 +3042,8 @@ label {
   font-family: "Open Sans";
   color:#fff;
   border-radius: 30px;
-  background-color: #f8791b;
-  border:1px solid #f8791b;
+  background-color: #56c368;
+  border:1px solid #56c368;
 }
 
 textarea.form-control {
@@ -3276,7 +3276,7 @@ text-transform: uppercase;
   .process-services .main-title{
     font-size: 34px;
     text-align: center;
-    color: #f8791b;
+    color: #56c368;
     margin-bottom: 30px;
     font-family: "Open Sans";
     font-weight: 700;
@@ -3329,7 +3329,7 @@ text-transform: uppercase;
 
   .process-services .process-box h6 .number{
   padding:0 15px; 
-  color: #f8791b;
+  color: #56c368;
   font-size: 15px;
   }
 
@@ -3508,7 +3508,7 @@ text-transform: uppercase;
   background: #f2f2f2
 }
 .ours-services h3{
-  color: #f8791b;
+  color: #56c368;
   margin-bottom: 20px;
   font-weight: 700;
   font-size: 35px;
@@ -3568,7 +3568,7 @@ text-transform: uppercase;
   }
 
   .services-info h3{
-  color: #f8791b;
+  color: #56c368;
   padding-top: 9px;padding-bottom:9px;
   
   margin-bottom: 0;
@@ -3599,7 +3599,7 @@ text-transform: uppercase;
 
 
   .serv-h2{
-    color: #f8791b;
+    color: #56c368;
     line-height: 44px;
     font-family: "Open Sans";
     font-weight: 700;
@@ -3611,7 +3611,7 @@ text-transform: uppercase;
   .green-banner{
     width: 100%;
     padding-top: 20px;padding-bottom: 25px;
-    background-color:#f8791b;
+    background-color:#56c368;
     margin-top: 50px;
     margin-bottom: 50px;
     border-radius: 35px;
@@ -3661,7 +3661,7 @@ text-transform: uppercase;
   }
 
   .price-h2{
-    color: #f8791b;
+    color: #56c368;
     line-height: 44px;
     margin-top: 40px;
     font-family: "Open Sans";
@@ -3672,7 +3672,7 @@ text-transform: uppercase;
   }
 
   .price-title-h2{
-    color: #f8791b;
+    color: #56c368;
     line-height: 44px;
     font-family: "Open Sans";
     font-weight: 600;
