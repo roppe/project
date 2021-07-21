@@ -124,7 +124,7 @@ background: #4AA659;}
   color: #56c368 !important;
   font-family:"Open Sans";
   font-weight: 700;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .mynav .navbar-right li .blue strong {
@@ -1692,6 +1692,13 @@ Pricing table
 }
 
 .call-us li p{
+	color: #fff;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: "Open Sans";
+}
+
+.call-us li p a{
 	color: #fff;
     font-weight: 700;
     font-size: 24px;
