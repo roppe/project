@@ -29,7 +29,7 @@
     float: left;
     width: 360px !important;height:110px;
     background:url(../img/logo-romance-scam.png) 0 0 no-repeat;
-    margin-right: 0 !important;
+    margin-right: 0;
     margin-top: 10px;
     margin-left: 40px;
 
@@ -1795,28 +1795,28 @@
     
     
         .adress-nav li a .fa{
-         margin-right:11px;
-         font-size: 18px;
-         color:#ffffff;
+        margin-right:11px;
+        font-size: 18px;
+        color:#ffffff;
         }
-    
+
         .adress-nav li a:hover{
         cursor: pointer;
         color: #fafafa;
         text-decoration: none;
         }
 
-        
-	.sub-footer{
+
+        .sub-footer{
         display: block;
         width: 100%;
         padding-top:8px;padding-bottom:8px;
         background-color:#0f0e17;
         margin-top: 20px;
         }
-    
+
         .sub-footer .copy {
-           font-family: 'Mulish', sans-serif;
+        font-family: 'Mulish', sans-serif;
         font-weight: 400;
         color: #d5d2d2 !important;
         text-align: center;
@@ -1844,144 +1844,6 @@
     
     
     
-    @media (max-width: 1079px) {
-        
-       
-     
-
-        .contact-informations h2 span{
-            font-size: 33px;
-        }
-        .contact-informations h2{
-            font-size: 22px;
-        }
-
-        #home-fleet h2{
-            font-size: 32px;
-        }
-
-        #top-limo h2{
-            font-size: 33px;
-        }
-
-        #top-limo p{
-            font-size: 15px;
-        }
-
-        .txt-services h3{
-            margin-top: 5px;
-        }
-
-        #top-limo{
-            
-            padding-bottom: 40px;
-        }
-
-        .fort-banner{
-            height: 450px;
-        }
-
-        .mini-call-two{
-            width: 98%;
-            padding-left: 20px;
-            padding-right: 20px;
-            margin-top: 50px;
-        }
-
-        #commercial-section h2 {
-            font-size: 31px;
-        }
-
-        #top-limo{
-            background-position:none;
-        }
-
-        .c-list li p{
-            font-size: 12px;
-        }
-
-        .c-list li a{
-            font-size: 12px;
-        }
-
-        .txt-services h2 {
-            color: #ffffff;
-            font-size: 33px;
-            text-align: left;
-          
-        }
-
-        .about-cover-top .text-headline{
-            left: 0;
-            top: 0;
-        }
-
-        .main-services{
-            padding-top: 20px;
-        }
-
-        .about-cover-top{
-            height: 450px;
-        }
-
-        .main-navigation .logo-header {
-            display: block;
-            float: left;
-            width: 270px !important;
-            height: 55px;
-            background: url(../img/mobile-logo.png) 0 0 no-repeat;
-            margin-right: 0 !important;
-            margin-top: 10px;
-        }
-
-          .main-navigation .nav-list .nav-link{
-            font-size: 9px;
-          }
-
-
-          .banner-call .call-left h4{
-            font-size: 23px;
-            margin-bottom: 25px;
-          }
-
-          .banner-call .call-left h5{
-            font-size: 16px;
-          }
-
-          .gallery h2{
-              font-size: 30px;
-          }
-
-              .banner-call .call-left h5 span {
-            font-family: 'Open Sans';
-            font-weight: 700;
-            color: #ffffff;
-            font-size: 26px;
-            margin-top: 10px;
-            letter-spacing: 1px;
-            text-align: center;
-            text-shadow: 0px 1px #000;
-            border: 2px solid #fff;
-            padding-left: 10px;
-            padding-right: 10px;
-            padding-top: 5px;
-            padding-bottom: 5px;
-            border-radius: 5px;
-            margin-right: 10px;
-            margin-left: 10px;
-            }
-
-            .demo-box .box-content h3{
-                font-size: 24px;
-            }
-
-            .info-left-side h2{
-                font-size: 26px;
-            }
-
-
-      }
-        
 
 
 
@@ -1991,447 +1853,311 @@
 
     @media (max-width: 1200px) {
        
+        
+        
+     
+        .contact-informations h2 span {
+            font-size: 28px;
+        }
+
+        .contact-informations h5{
+            font-size: 20px;
+        }
+
+        .txt-image img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .txt-services h3 {
+            font-size: 16px;
+            margin-top: 10px;
+        }
+
+        .main-services .txt-services{
+            margin-top: 20px;
+        }
+
+        .main-services .txt-services{
+            padding-right: 10px;
+        }
+
+        .txt-services p {
+            font-size: 15px;;
+        }
+
+        .txt-services h2 {
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        .main-services .how-work .second-tittle{
+            font-size: 28px;
+        }
+
+        .box-process h4{
+            font-size: 15px;
+        }
+
+        #lost-money .intext{
+            padding-right: 10px;
+        }
+
+        #lost-money .intext h2{
+            font-size: 28px;
+        }
+
+        #lost-money .intext h3{
+            font-size: 16px;
+        }
+
+        #choose-us .text-box h3{
+            font-size: 17px;
+            margin-top: 10px;
+        }
+
+        #choose-us .text-box{
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+
+        #choose-us .text-box h2{
+            font-size: 26px;
+        }
+
+        .money-refund{
+            padding-left: 20px;
+        }
+
+        .money-refund li h6 {
+            font-size: 16px;
+        }
+
+        .mini-banner h2 {
+            font-size: 16px;
+        }
+
+        .mini-banner .btn-action{
+            font-size: 14px;
+            width: 260px;
+        }
+
+        #trust-us .txt-headline-1 h4{
+            font-size: 32px;
+        }
+
+        #trust-us .txt-headline-1 h5 {
+            font-size: 17px;
+            margin-bottom: 5px;
+        }
+
+        .list-choose li{
+            height: 300px;
+        }
+
+        .list-choose li h6 {
+            font-size: 16px;
+        }
+
+        #text-content .txt-right {
+            padding-right: 20px;
+            padding-left: 20px;
+            margin-top: 0px;
+        }
+
+        #text-content .txt-right h2{
+           font-size: 28px;
+        }
+
+        #text-content .txt-right h6{
+            margin-left: 0;
+        }
+
+        .blue-banner h2 {
+            font-size: 28px;
+        }
+
+        #scammer-info .scam-text h2 {
+            font-size: 28px;
+        }
+
+        .fact-numbers li {
+            display: block;
+            float: left;
+            margin-right: 25px;
+        }
+
+        .fact-numbers li h6{
+            font-size: 14xpx;
+        }
+
+        #faq-section-ta {
+            padding-top: 20px;
+        }
+
+
+
+
+
        
 
-        #contact-section{
-            height: 850px;
-        }
 
-        .c-list li p{
-            font-size: 13px;
-        }
-
-
-        .main-navigation .nav-list .nav-link {
-            font-family: 'Open Sans', sans-serif;
-            font-weight: 600;
-            color: #fff;
-            text-transform: uppercase;
-            font-size: 10px;
-           
-            margin-right: 5px;
-            margin-top: 15px;
-            text-align: center;
-        }
-
-
-    }
+    }/* end  max widht 1200px  */
         
 
     @media (max-width: 991px) {
 
-        #contact-section{
-            height: 740px;
-        }
-
-        .contact-top .text-contact h6{
-            font-weight: 500;
-            color: #d8b25b;
-        }
-
+       
         .txt-services h3{
-            color: #fff;
-        }
-        
-        .services-list li p{
-            font-size: 13px;
+            text-align: center;
         }
 
-        .services-list li{
-            width: 300px;
+        .txt-services h2{
+            text-align: center;
         }
 
-        .inner-services{
-            height: auto;
-            padding-bottom: 50px;
-        }
-
-        .contact-informations .hero-call span{
-            font-size: 28px;
-        }
-
-        .contact-informations h3{
-            font-size: 14px;
-            width: 330px;
-            padding-bottom: 15px;
-        }
-
-        .c-list li img{
+        .box-process{
+            max-width:95%;
+            margin-bottom: 60px;
             display: block;
             margin-left: auto;
             margin-right: auto;
-            float: none;
         }
 
-        .c-list li p {
-            font-size: 12px;
+        #lost-money .intext h2{
             text-align: center;
         }
         
-        
-        
-
-        .banner-cover-top{
-            height: 450px;
+        #lost-money .intext h3{
+            text-align: center;
         }
 
-        .why-list li{
-            width: 35%;
-        }
-
-        .mini-call-two{
-            font-size: 16px;
-        }
-
-        .mini-call-two a{
-            font-size: 19px;
-        }
-
-        .banner-cover-top .text-headline{
-            left: 0;
-            top: 0;
-            
-        }
-
-        #commercial-section h2{
-            font-size: 34px;
-        }
-
-        .services-list li{
-            padding-left: 10px;
-            padding-right: 10px;
-            margin-right: 15px;
-        }
-
-        .services-list li h6{
-            font-size: 15px;
-        }
-
-        .main-services {
-            padding-top: 20px;
-            padding-bottom: 40px;
-        }
-
-        .txt-services h2 {
-            color: #fff;
-            font-size: 30px;
-            text-align: left;
-        }
-
-        .txt-services p{
-            font-weight: 500;
-        }
-
-        .contact-top .text-contact h2{
-            font-size: 35px;
-        }
-
-        .call-footer a span{
-            font-size: 23px;
-        }
-
-        .call-us-button{
-            width: 495px;
-            font-size: 30px;
-            padding-top: 12px;padding-bottom: 12px;
-        }
-        .nav-list .nav-item .btn-nav-book{
-            width: 270px;
+        .intext .btn-money{
             display: block;
+            float: none;
             margin-left: auto;
             margin-right: auto;
-
         }
 
-        #top-section .tx-box-1 h2{
-        font-size: 22px;
+        .mini-banner h2 {
+            font-size: 17px;
+            text-align: center;
         }
 
-        #top-section .tx-box-1 h4{
-        font-size: 17px;
+        .list-choose li{
+            width: 42%;
         }
 
-        .catagories-home li h6{
-        font-size: 13px;
+        #text-content .txt-right h3{
+            text-align: center;
         }
 
-        .catagories-home li img{
-        width: 110px;height: 110px;
+        #text-content .txt-right h2{
+            text-align: center;
         }
 
-        .banner-call .call-left h4{
-        font-size: 24px;
-        }
-
-        .banner-call .call-left h5{
-        font-size: 17px;
-        }
-
-        .banner-call .call-left h5 span{
-        font-size: 24px;
-        }
-
-        .info-left-side h2{
-            font-size: 22px;
-        }
-
-        .info-left-side h3{
-            font-size: 19px;
-        }
-
-        .sell-right-side img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-        display: none;
-
-        }
-
-        .info-left-side{
-          
-            padding-top: 20px;
-        }
-
-        .process-steps {
-        margin-bottom: 10px;
-        max-width: 230px;
-        background-color: #fafafa;
-        margin-right: 8px;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        margin-top: 40px;
-        position: relative;
-        }
-
-        .process-steps h6{
-            font-size: 13px;
-        }
-
-        .process-steps p{
-            font-size: 11px;
-        }
-
-        .banner-cover-top .text-headline{
-            margin-top: 15px;
-        }
-
-        .banner-cover-top .text-headline h2 span{
+        #scammer-info .scam-text h2 {
             font-size: 26px;
         }
 
-        .banner-cover-top .text-headline h2{
-            font-size: 19px;
-        }
-
-
-        .gallery-content .pic-1{
-            width: 55%;
+        .fact-numbers li {
             display: block;
-            margin-right: auto;
-            margin-left: auto;
+            float: left;
+            margin-right: 25px;
+            width: 41%;
+            margin-bottom: 25px;
         }
 
-        #we-buy-section .tx-box h2{
-            font-size: 21px;
+        .webpro-faq .faq-header .btn{
+           font-size: 14px;
         }
 
-        #we-buy-section .tx-box h4{
-            font-size: 17px;
+        #faq-section-ta .webpro-faq{
+            padding-top: 9px;
+            padding-bottom: 9px;
         }
 
-        #we-buy-section .title-box h2{
-            font-size: 19px;
-            text-align: center;
-        }
-
-        #we-buy-section .title-box p{
-            font-size: 13px;
-        }
-
-        .product-list li{
-            width: 25%;
-        }
-
-        .product-list li h6{
+        .adress-nav li .footer-quote{
             font-size: 14px;
+            width: 265px;
         }
 
-        #section-how-it-work .box-text-5 h2{
-            font-size: 24px;
-        }
-
-        .inner-how-it-work-1 .first-side-work .headline-app{
-            font-size: 15px;
-        }
-
-        .inner-how-it-work-1 .first-side-work .text-description{
-            font-size: 14px;
-        }
-
-        #buy-txt-section .repair-content h2{
-            font-size: 25px;
-        }
-
-        .demo-box .box-content p{
+        .adress-nav li a {
             font-size: 16px;
         }
-
-        .section-how-it-work .box-text-6 h2{
-            font-size: 24px;
-        }
-
-        #location-hour .map-info .t-1{
-            font-size: 15px;
-        }
-
-        #location-hour .map-info a span{
-            font-size: 32px;
-        }
-
-        .service-info .open-hours li span{
-            font-size: 11px;
-        }
-
-        .service-info .open-hours li p{
-            font-size: 12px;
-        }
+       
+       
+       
 
 
     }  /* end  max widht 991px  */
 	
 
+
    
 
     @media (max-width: 767.98px) {
 
-      
+       
+     
 
         .contact-top .text-contact h2{
           
             color: #d8b25b;
         }
-        
 
-        .c-list li {
-            list-style-type: none;
-            padding-top: 20px;
-            padding-bottom: 20px;
-            padding-left: 10px;
-            display: inline-block;
-            margin-right: 9px;
-            box-shadow: 0 5px 15px 0 rgb(0 0 0 / 10%);
-            width: 43%;
-            margin-top: 20px;
-            background-color: #181F27;
-        }
-
-        #contact-section{
-            height: 600px;
-        }
-
-        .services-list li {
-            padding-left: 15px;
-            padding-right: 15px;
-            margin-right: 15px;
-            width: 43%;
-            height: 300px;
-        }
-
-        .inner-services{
-            height: auto;
-            padding-bottom: 80px;
-        }
-
-        .services-list li p {
-            font-size: 13px;
+        .main-services .how-work .second-tittle {
+            font-size: 25px;
         }
 
         .txt-services h2 {
-             color: #fff; 
-            font-size: 30px;
-            text-align: left;
+            text-align: center; font-size: 25px;
+        }
+
+        .main-services .how-work .first-tittle {
+            font-size: 17px;
+        }
+
+        #lost-money .intext h2 {
+            font-size: 25px;
+        }
+
+        #lost-money .intext p{
+            font-size: 15px;
+        }
+
+        #trust-us .txt-headline-1 h4 {
+            font-size: 27px;
+        }
+
+        .list-choose li h6 {
+            font-size: 15px;
+        }
+
+        #trust-us .act-txt {
+            font-size: 19px;
+        }
+
+        #text-content .txt-right h2 {
+            font-size: 25px;
+        }
+
+        .blue-banner h2 {
+            font-size: 24px;
+        }
+
+        #scammer-info .scam-text h3{
+            font-size: 17px;
+        }
+
+        .adress-nav{
+            float: left;
         }
         
 
-        .main-services {
-            padding-top: 20px;
-        }
 
-        .gallery h3{
-            font-size: 16px;
-        }
-
-        .process-steps{
-        max-width: 100%;
-        margin-bottom: 10px;
-        }
-
-        .process-steps img{
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
-        width: 20%;
-        }
-
-        #top-section .tx-box-1 h2{
-        font-size: 19px;
-        }
-
-        #top-section .tx-box-1 h4{
-            font-size: 14px;
-        }
-        .catagories-home li{
-            width: 30%;
-        }
-
-        .banner-call .call-left h4 {
-        font-size: 25px;
-        }
-
-        .banner-call .call-left h5 {
-        font-size: 17px;
-        }
-
-        .banner-call .call-left h5 span {
-        font-size: 20px;
-        }
-
-        .info-left-side p{
-            font-size: 13px;
-        }
-
-        .info-left-side h2 {
-        font-size: 20px;
-        }
-
-        #location-hour .map-info{
-            height: 225px;
-            margin-bottom: 30px;
-        }
-
-       
-        .logo-left li a img{
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        .demo-box .box-content h3{
-            font-size: 23px;
-        }
-
-        .product-list li h6 {
-        font-size: 12px;
-        }
-
-        .product-list li img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 85px;
-        height: 85px;
-        }
+        
 
       
 
@@ -2447,344 +2173,161 @@
 	
 	@media (max-width: 575.98px) { 
        
-       
-
-        .contact-top .text-contact h2 {
-            color: #181F27  !important;
-            font-size: 25px;
-        }
-
-        .contact-top .text-contact h6 {
-            font-weight: 500;
-            color: #181F27;
-            font-size: 15px;
-        }
-
-        #home-fleet {
-            background: url(../img/light-sky.jpg) no-repeat;
-            height:auto;
-            background-position: center;
-            padding-top: 50px;
-            padding-bottom: 50px;
-        }
-
-        .c-list li {
-            list-style-type: none;
-            padding-top: 20px;
-            padding-bottom: 20px;
-            padding-left: 10px;
-            display: inline-block;
-            margin-right: 11px;
-            box-shadow: 0 5px 15px 0 rgb(0 0 0 / 10%);
-            width: 44%;
-            margin-top: 20px;
-            background-color: #181F27;
-        }
-        .c-list li img {
-           
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            float: none;
-           
-        }
-
-        .c-list li p {
-            font-size: 13px;
+      
+        .txt-services h2 {
             text-align: center;
-        }
-
-        #home-fleet h2{
-            font-size: 30px;
-        }
-
-        .banner-home .call-inner a{
             font-size: 22px;
-        }
-
-        .contact-informations h2 span{
-            font-size: 18px;
-        }
-
-        .contact-informations h2{
-            font-size: 12px;
-            margin-bottom:20px;
-            margin-top: 90px;
-        }
-
-        .contact-informations h3{
-            display: none;
-        }
-
-        #contact-section{
-            height: 335px;
-            padding-top: 45px;
-        }
-
-        .banner-home .call-inner h4{
-            font-size: 28px;
-        }
-       
-        #top-limo{
-            background:#181f27;
-            height: auto;
-            padding-bottom: 50px;
-        }
-        .banner-cover-top {
-            height: 250px;
-          
-            
-        }
-        .contact-informations .hero-call{
-            float: none;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        .contact-informations .hero-call span {
-            font-family: 'Open Sans', sans-serif;
-            font-weight: 600;
-            color: #ffffff;
-            text-transform: uppercase;
-            font-size: 17px;
-            text-align: center;
-            letter-spacing: 1px;
-            border: 3px solid #fff;
-            padding-top: 15px;
-            padding-bottom: 15px;
-            padding-right: 45px;
-            border-radius: 25px;
-            background-color: #181f27;
-        }
-
-        .contact-informations .hero-call span img {
-            margin-right: 20px;
-            margin-left: -20px;
-            margin-top: -4px;
-            width: 50px;
-        }
-
-        #contact-section .contact-informations {
-            display: block;
-            z-index: 1;
-            margin-top: 30px;
-        }
-        
-        .fort-banner {
-            height: 250px;
         }
 
         .txt-services p {
-            font-weight: 500;
-        }
-
-        
-
-        #top-limo h2 {
-            font-size: 28px;
-        }
-
-        .txt-services h3{
-            margin-top: 10px;
-        }
-
-        .gallery h3 {
             font-size: 14px;
         }
 
-        .banner-call .call-left a{
+        .main-services .how-work .second-tittle {
             font-size: 22px;
         }
-
-        .services-list li {
-            padding-left: 15px;
-            padding-right: 15px;
-            margin-right:0;
-            width: 100%;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            height: 250px;
+        
+        .main-services .how-work .first-tittle {
+            font-size: 16px
         }
-        .mini-call-two a {
+
+        .main-services{
+            padding-bottom: 20px;
+        }
+
+        #lost-money .intext h2 {
             font-size: 21px;
         }
 
-        .sub-footer .copy{
-            font-size: 9px;
-        }
-        
-
-        #commercial-section p{
+        #lost-money .intext p {
             font-size: 14px;
         }
 
-        .why-list li {
-            width: 40%;
+        #lost-money .intext p {
+            font-size: 14px;
         }
 
-        .why-list li img {
-            width: 50px;
-            height: 50px;
-            display: block;
-            float:none;
-            
-            margin-left: auto;
-            margin-right: auto;
+        #choose-us .text-box p {
+            font-size: 14px;   
         }
 
-        .services-list li:last-child {
-            margin-left: auto;
-            margin-right: auto;
-            display: block;
+        #choose-us .text-box p{
+            padding-left: 20px;
         }
 
-        .banner-call{
-            height: 500px;
-            background: #181F27 !important;
+        .money-refund li h6 {
+            font-size: 15px;
         }
 
-        .gallery h2 {
-            font-size: 26px;
-        }
-
-        .why-list li p{
+        .mini-banner h2 {
+            font-size: 15px;
             text-align: center;
+            padding-left: 0;
         }
 
-        .about-cover-top {
-            height: 255px;
+        #trust-us .txt-headline-1 h5 {
+            font-size: 15px;
+            margin-bottom: 5px;
         }
 
-        #commercial-section h2 {
-            font-size: 24px;
+        .list-choose li {
+            width: 90%;
+            height: 260px;
         }
 
-        #commercial-section h3{
-            font-size: 17px;
+        #trust-us .btn-request{
+            font-size: 15px;
+            width: 300px;
         }
 
-        .contact-top .text-contact h2 {
-            font-size: 26px;
+        #text-content .txt-right h2 {
+            font-size: 22px;
         }
 
-        .call-us-button {
-            width: 98%;
-            font-size: 25px;
-            padding-top: 12px;
-            padding-bottom: 12px;
-            border-radius: 5px;
-        }
-
-        .call-us-button img {
-            margin-right: 10px;
-            width: 58px;
-        }
-
-        .contact-top{
-            height: auto;
-            background-size: cover;
-        }
-
-        .contact-top .text-contact{
-            margin-top: 30px;
-        }
-
-        #home-section .text-area h2 span{
-            font-size: 24px;
-        }
-
-        #top-section .tx-box-1 h4 {
-        font-size: 12px;
-        }
-
-        .catagories-home li {
-        width: 45%;
-        }
-
-        .banner-call .call-left h5 {
-        font-size: 15px;
-        }
-
-        .info-left-side h2 {
-        font-size: 17px;
-        }
-
-        .info-left-side h3 {
-        font-size: 15px;
-        }
-
-        .info-left-side h6{
-        font-size: 14px;
-        }
-
-        .banner-call .call-left h5 span {
-        font-family: 'Open Sans';
-        font-weight: 700;
-        color: #ffffff;
-        font-size: 16px;
-        margin-top: 10px;
-        letter-spacing: 1px;
-        text-align: center;
-        text-shadow: 0px 1px #000;
-        border:none;
-        padding-left:3px;
-        padding-right:3px;
-        padding-top: 5px;
-        padding-bottom: 5px;
-        border-radius: 5px;
-        margin-right:0;
-        margin-left:0;
-        }
-
-               .banner-call .call-left h5 span a {
-            font-family: 'Open Sans';
-            font-weight: 700;
-            color: #ffffff;
+        #text-content .txt-right h3 {
             font-size: 16px;
-            margin-top: 10px;
-            letter-spacing: 1px;
-            text-align: center;
-            text-shadow: 0px 1px #000;
-            border: 2px solid #fff;
-            padding-left: 5px;
-            padding-right: 5px;
+        }
+
+        #text-content .txt-right h5 {
+            font-size: 16px;
+        }
+
+        #text-content .txt-right p{
+            font-size: 14px;
+        }
+
+        .blue-banner h2 {
+            font-size: 16px;
+        }
+
+        .blue-banner{
+            padding-left: 10px;padding-right: 10px;
+        }
+
+        .blue-banner .btn-get-money{
+            font-size: 15px;
+            width: 300px;
+        }
+
+        #scammer-info .scam-text h2 {
+            font-size: 22px;
+        }
+
+        #scammer-info .scam-text p {
+            font-size: 14px;
+        }
+
+        .fact-numbers li h6 {
+            font-size: 13px;
+        }
+
+        #lost-money .intext {
+            padding-right: 10px;
+            padding-left: 15px;
+        }
+
+        #faq-section-ta .text-faq-box h2 {
+            font-size: 21px;
+        }
+
+        #faq-section-ta .webpro-faq {
             padding-top: 5px;
             padding-bottom: 5px;
-            border-radius: 5px;
-            margin-right:5px;
-            margin-left: 5px;
         }
 
-                .banner-call .call-left h5 span a .fa {
-                margin-left: 10px;
-                margin-right: 8px;
-                font-size: 18px;
-                color: #fff;
-                }
-
-        .banner-call .call-left h5 span .fa {
-        margin-left: 4px;
-        margin-right: 7px;
-        font-size: 20px;
-        color: #fff;
-        margin-top: 2px;
+        #contact-section .contact-informations {
+            padding-left: 20px;
+        }   
+        
+        .contact-informations h5 {
+            font-size: 15px;
         }
 
-        .banner-cover-top .text-headline h2 span {
-        font-size: 22px;
+        .contact-informations h6{
+            font-size: 15px;
         }
 
-        .banner-cover-top .text-headline h2 {
-        font-size: 17px;
+        .main-navigation .logo-header {
+            display: block;
+            float: none;
+            margin-left: auto;
+            margin-right: auto;
+            width: 255px !important;
+            height: 65px;
+            background: url(../img/mobile-logo-romance.png) 0 0 no-repeat;
+            
+            margin-top: 10px;
+         
         }
 
-        #buy-txt-section .repair-content h2 {
-        font-size: 18px;
+        .nav-list .nav-item .btn-nav-book {
+            font-size: 14px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 270px;
+            padding-top: 9px;padding-bottom: 9px;
         }
-
-     
 
 
 	} /* end mobile responsive media querie*/
