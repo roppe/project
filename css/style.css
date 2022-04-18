@@ -253,7 +253,7 @@
     position: relative;
     background-size: 100% 100%;
     position: relative;
-    height: 1080px;
+   
     }
 
     .contact-us-form{
@@ -424,7 +424,7 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     color: #343333;
-    font-size: 18px;
+    font-size: 17px;
     text-align: left;
     margin-top: 25px;
     padding-left: 0;
@@ -1827,12 +1827,153 @@
         letter-spacing: 1px;
         margin-bottom: 3px;
         }
-    
-    
 
     
 
-  
+    /* Submit Contact Form */
+    .contact-form .form-title{
+    display: block;
+    float: left;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #fff;
+    background-color: #F55340;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-bottom: 40px;
+    }
+
+    .contact-form img{
+    margin-top: 20px;
+    }
+
+    .contact-form .form-title span{
+
+    text-align: center;
+    color: #fff;
+    font-size:15px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+
+    }
+    .contact-form{
+    background-color: #FAFAFA;
+    padding-top: 0;
+    padding-bottom: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    border: 1px solid #F0EDED;
+    border-radius: 20px;
+    margin-left: 50px;
+    display: block;
+    float: left;
+    margin-top: 30px;
+    } 
+
+    .contact-form form{
+    padding-left: 30px;
+
+    }
+
+    .contact-form .form-group{
+    display: block;
+    float: left;
+    width: 45%;
+    margin-right: 25px;
+    }
+
+    .contact-form .box-message{
+    display: block;
+    float: left;
+    width: 94%;
+    margin-right: 25px;
+    height: 100px !important;
+    }
+
+    .contact-form .form-group .book-form{
+
+    border-radius: 3px;
+    }
+
+
+    .contact-form .button-submit{
+    display: block;
+    float: left;
+    margin-top: 40px;
+    width: 94%;
+    background-color: #7FD858;
+    color: #fff;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-family: "Open Sans";
+    font-weight: 600;
+    letter-spacing: 2px;
+    padding-top: 14px;padding-bottom: 14px;
+
+    }
+
+
+    /* Thank You Page */
+    
+    .thank-you{
+		padding-top: 50px;
+		padding-bottom: 70px;
+		margin-top: 130px;
+		box-shadow: 0 5px 15px 0 rgba(0,0,0,.1);
+		background-color: #fafafa;
+	}
+
+	.thank-you h2{
+        color: #052E57;
+        font-size: 26px;
+        text-align: center;
+        margin-top: 5px;
+        margin-bottom: 55px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 700;
+        letter-spacing: 1px;
+        width: 100%;
+        display: block;
+	}
+	
+	.thank-you h4{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 500;
+        color: #343333;
+        font-size: 16px;
+		text-align: center;
+		margin-top: 5px;
+		margin-bottom: 20px;
+		width: 100%;
+	}
+
+	.thank-you img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 20px;
+	}
+
+	.thank-you a{
+		margin-top: 50px;
+		font-family: "Roboto";
+		font-weight: 400;
+		text-decoration: none;
+		color:#5c5b58;
+
+	}
+
+	.thank-you a .fa{
+		margin-left: 10px;
+	}
 
 
      
@@ -1853,6 +1994,18 @@
 
     @media (max-width: 1200px) {
        
+
+        .contact-form .form-title {
+            font-size: 14px;
+        }
+
+        .contact-form .form-title span {
+            font-size: 10px;
+        }
+
+        .contact-form form {
+            padding-left: 10px;
+        }
         
         
      
@@ -2008,7 +2161,23 @@
 
     @media (max-width: 991px) {
 
-       
+        
+
+        .contact-form form {
+            padding-left: 30px;
+        }
+        
+
+        .contact-form .form-title {
+            font-size: 21px;
+        }
+
+        .contact-form .form-title span {
+            font-size: 14px;
+        }
+
+
+
         .txt-services h3{
             text-align: center;
         }
@@ -2100,11 +2269,24 @@
     @media (max-width: 767.98px) {
 
        
+
+        .contact-form{
+            margin-left: 10px;
+        }
+
+        .contact-form form {
+            padding-left: 10px;
+        }
+        
      
 
         .contact-top .text-contact h2{
           
             color: #d8b25b;
+        }
+
+        .contact-form .form-title {
+            font-size: 19px;
         }
 
         .main-services .how-work .second-tittle {
@@ -2172,7 +2354,38 @@
 
 	
 	@media (max-width: 575.98px) { 
-       
+    
+        
+
+        .contact-form{
+            margin-left: 0;
+        }
+
+        .contact-form .form-title span {
+            font-size: 10px;
+        }
+
+        .contact-form .form-title {
+            font-size: 14px;
+        }
+
+        .contact-form .form-group {
+            display: block;
+            float: left;
+            width: 94%;
+            margin-right: 25px;
+        }
+
+        .contact-form .button-submit{
+            font-size: 18px;
+        }
+
+
+     
+
+        .contact-form form {
+            padding-left: 10px;
+        }
       
         .txt-services h2 {
             text-align: center;
