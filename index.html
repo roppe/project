@@ -396,17 +396,15 @@
 							</div>
 
 							<div class="form-group">
-                              
-								<div class="input-group date" id="datetimepicker1" data-target-input="nearest">
-                                    <input type="text" class="form-control datetimepicker-input datetimepicker" id="dataTimePicker" name="departure_date" placeholder="Select Date and Time">
-                                    <!--span class="input-group-addon" data-target="#datetimepicker1" data-toggle="datetimepicker">
-                                      <span class="fa fa-calendar"></span> </span-->
-                                </div>
+								<input type="text" class="form-control book-form" name="date" id="date" placeholder="Select Last Transaction date" data-select="datepicker">
+							
 							</div>
 
 							<div class="form-group" style="margin-right: 0;">
 								<input type="text" class="form-control book-form" id="reference-code" name="reference_code" placeholder="Reference Code" required="">
 							</div>
+
+		
 
 							<div class="form-group box-message" style="margin-right: 0;">
 								<textarea class="form-control book-form" type="textarea" name = "notes-message" id="notes-message" placeholder="Short Description of your story..." maxlength="500" rows="7" style="height:112px;"></textarea>
@@ -1077,17 +1075,15 @@
 							</div>
 
 							<div class="form-group">
-                              
-								<div class="input-group date" id="datetimepicker1" data-target-input="nearest">
-                                    <input type="text" class="form-control datetimepicker-input datetimepicker" id="dataTimePicker" name="departure_date" placeholder="Select Date and Time">
-                                    <!--span class="input-group-addon" data-target="#datetimepicker1" data-toggle="datetimepicker">
-                                      <span class="fa fa-calendar"></span> </span-->
-                                </div>
+								<input type="text" class="form-control book-form" name="date" id="date" placeholder="Select Last Transaction date" data-select="datepicker">
+							
 							</div>
 
 							<div class="form-group" style="margin-right: 0;">
 								<input type="text" class="form-control book-form" id="reference-code" name="reference_code" placeholder="Reference Code" required="">
 							</div>
+
+		
 
 							<div class="form-group box-message" style="margin-right: 0;">
 								<textarea class="form-control book-form" type="textarea" name = "notes-message" id="notes-message" placeholder="Short Description of your story..." maxlength="500" rows="7" style="height:112px;"></textarea>
@@ -1129,7 +1125,7 @@
 						</h5>
 					</div>
   
-					<div id="collapseOne" class="fade collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
+					<div id="collapseOne" class="fade collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
 					  <div class="card-body body-faq">
 						Funds Recovery is an investigative and consulting service hired mainly by victims of online fraud to help them get their money back. We specialize dealing with online scams and help provide reimbursement to their victims using disputes, tracking down digital fingerprints, cyber analysis and thorough investigative work.
 
@@ -1147,7 +1143,7 @@
 						</h5>
 					</div>
   
-					<div id="collapse-2" class="fade collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
+					<div id="collapse-2" class="fade collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
 					  <div class="card-body body-faq">
 						We offer full transparency during the entire process and invite you to look up our registration information or to come meet us in person. The service is very straight forward and delivers results.
 					  </div>
@@ -1163,7 +1159,7 @@
 						</h5>
 					</div>
   
-					<div id="collapse-3" class="fade collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
+					<div id="collapse-3" class="fade collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
 					  <div class="card-body body-faq">
 						We offer full transparency during the entire process and invite you to look up our registration information or to come meet us in person. The service is very straight forward and delivers results.
 					  </div>
@@ -1179,7 +1175,7 @@
 						</h5>
 					</div>
   
-					<div id="collapse-3" class="fade collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
+					<div id="collapse-3" class="fade collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
 					  <div class="card-body body-faq">
 						We offer full transparency during the entire process and invite you to look up our registration information or to come meet us in person. The service is very straight forward and delivers results.
 					  </div>
@@ -1306,14 +1302,24 @@
 	<!-- phone Number script-->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.3/js/intlTelInput.min.js"></script>
 	
-	
+
+	<!-- new datepicker calendar JS -->
+	<script src="js/jquery.datepicker2.js"></script>
+
+	<!-- new datepicker calendar JS -->
+	<script src="js/jquery.datepicker2.min.js"></script>
+
+
+	 
+
 	
 	<!-- Date and time picker form -->
 	<script>
 		$(function () {
-		  $('.datetimepicker').datetimepicker();
+		  $('.timedate').datepicker();
 		  });
 	</script>
+
 
 
     <script>
