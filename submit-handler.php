@@ -28,7 +28,7 @@ if ($response != null && $response->success && !empty($_POST['name']) && !empty(
 	Amount lost:	'.$_POST['amount-lost'].'<br /><br />
 	Currency lost:	'.$_POST['currency'].'<br /><br />
 	Transfer method:	'.$_POST['transfer_method'].'<br /><br />
-	Last transaction date:	'.$_POST['departure_date'].'<br /><br />
+	Last transaction date:	'.$_POST['date'].'<br /><br />
 	Reference code:	'.$_POST['reference_code'].'<br /><br />
 	Short description message:	'.$_POST['notes-message'].'<br /><br />
 	Time:	'.date("M,d,Y h:i:s A").'<br /><br /><br /><br />Thanks.<br /><br />';
